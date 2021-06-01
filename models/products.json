@@ -1,0 +1,8 @@
+{
+    "products" : [
+        {"name": "Iphone 10", "price":75000, "Brand":"Apple"},
+        {"name": "Samsung 10", "rpice":65000, "Brand":"Samsung" },
+        {"name": "Redmi 10 Max pro", "rpice":35000, "Brand":"Xiame" },
+        {"name": "GooglePixel4", "rpice":65000, "Brand":"google" }
+    ]
+}
